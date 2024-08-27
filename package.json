@@ -26,9 +26,9 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/phase-1-practice-toy-tale#readme",
   "dependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.5.0",
     "jsdom": "^9.0",
-    "mocha": "5.2.0",
+    "mocha": "^5.2.0",
     "mocha-jsdom": "~1.1.0"
   }
 }
